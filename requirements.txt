@@ -1,0 +1,5 @@
+requests
+human-eval
+sacrebleu
+pandas
+numpy

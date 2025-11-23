@@ -1,0 +1,12 @@
+{
+    "api_config_path": "./configs/api_setting.json",
+    "log_dir": "./logs",
+
+    "human_eval_results_dir": "./experiment/human_eval/results",
+    
+    "MMLU_dataset_dir": "./experiment/MMLU/MMLU_data",
+    "MMLU_results_dir": "./experiment/MMLU/results",
+
+    "MATH_dataset_dir": "./experiment/MATH/MATH_data",
+    "MATH_results_dir": "./experiment/MATH/results",
+}
