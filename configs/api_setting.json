@@ -1,5 +1,0 @@
-{
-    "endpoints": "<base_url>/chat/completions",
-    "api_key": "sk-xxx",
-    "model": "xxx"
-}
